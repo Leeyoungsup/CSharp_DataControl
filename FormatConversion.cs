@@ -23,7 +23,6 @@ namespace part1_5
             //bool(1byte)=true/false
             
             //Console.WriteLine("Hello Nunber! {0}",d);
-
         }
     }
 }
